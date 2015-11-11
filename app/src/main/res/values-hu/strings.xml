@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Szélsebesség Átváltó</string>
+    <string name="welcome">Üdvözlöm</string>
+    <string name="main_field">Írjon be egy értéket</string>
+    <string name="convert_button">Átváltás</string>
+    <string name="register_button">Regisztráció</string>
+    <string name="from_field">Értékről</string>
+    <string name="to_field">Értékre</string>
+    <string-array name="measures">
+        <item>Beaufort</item>
+        <item>km/óra</item>
+        <item>mérföld/óra</item>
+        <item>csomó</item>
+        <item>méter/s</item>
+        <item>láb/s</item>
+    </string-array>
+    <string name="no_number_error">Írjon be egy értéket!</string>
+    <string name="again_button">Átváltás újra!</string>
+    <string name="english_is">egyenlő</string>
+    <string name="conf_text">Megerősítés</string>
+    <string name="name_text">Név: </string>
+    <string name="email_text">Email: </string>
+    <string name="name">Az ön neve</string>
+    <string name="email">Az ön email címe</string>
+    <string name="all_fields_req">Minden mező kitöltése szükséges!</string>
+    <string name="reg_conf_text">Köszönjük, hogy regisztrált.</string>
+    <string name="go_back_button">Vissza</string>
+    <string name="alert_dialog_text">Extrém időjárási viszonyok! Szeretne segítsége hívni?</string>
+    <string name="neutral_button">Vissza</string>
+    <string name="negative_button">Nem</string>
+    <string name="positive_button">Igen</string>
+    <string name="emergency_num">tel:112</string>
+    <string name="thank_reg">Köszönjük, hogy regisztrált...</string>
+    <string name="notif_text">Hívjon minket még több mókáért!</string>
+
+</resources>

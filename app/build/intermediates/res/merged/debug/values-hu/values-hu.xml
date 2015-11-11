@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/lastminute84/AndroidStudioProjects/WindSpeedConverterApplication/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string-array name="measures">
+        <item>Beaufort</item>
+        <item>km/óra</item>
+        <item>mérföld/óra</item>
+        <item>csomó</item>
+        <item>méter/s</item>
+        <item>láb/s</item>
+    </string-array>
+    <!-- From: file:/home/lastminute84/AndroidStudioProjects/WindSpeedConverterApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <!-- From: file:/home/lastminute84/AndroidStudioProjects/WindSpeedConverterApplication/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="again_button">Átváltás újra!</string>
+    <string name="alert_dialog_text">Extrém időjárási viszonyok! Szeretne segítsége hívni?</string>
+    <string name="all_fields_req">Minden mező kitöltése szükséges!</string>
+    <string name="app_name">Szélsebesség Átváltó</string>
+    <string name="conf_text">Megerősítés</string>
+    <string name="convert_button">Átváltás</string>
+    <string name="email">Az ön email címe</string>
+    <string name="email_text">Email: </string>
+    <string name="emergency_num">tel:112</string>
+    <string name="english_is">egyenlő</string>
+    <string name="from_field">Értékről</string>
+    <string name="go_back_button">Vissza</string>
+    <string name="main_field">Írjon be egy értéket</string>
+    <string name="name">Az ön neve</string>
+    <string name="name_text">Név: </string>
+    <string name="negative_button">Nem</string>
+    <string name="neutral_button">Vissza</string>
+    <string name="no_number_error">Írjon be egy értéket!</string>
+    <string name="notif_text">Hívjon minket még több mókáért!</string>
+    <string name="positive_button">Igen</string>
+    <string name="reg_conf_text">Köszönjük, hogy regisztrált.</string>
+    <string name="register_button">Regisztráció</string>
+    <!-- From: file:/home/lastminute84/AndroidStudioProjects/WindSpeedConverterApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/home/lastminute84/AndroidStudioProjects/WindSpeedConverterApplication/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="thank_reg">Köszönjük, hogy regisztrált...</string>
+    <string name="to_field">Értékre</string>
+    <string name="welcome">Üdvözlöm</string>
+</resources>

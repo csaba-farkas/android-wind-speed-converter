@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Wind Speed Converter</string>
+    <string name="welcome">Welcome</string>
+    <string name="main_field">Enter Units to Convert</string>
+    <string name="convert_button">Convert</string>
+    <string name="register_button">Register</string>
+    <string name="from_field">From</string>
+    <string name="to_field">To</string>
+    <string-array name="measures">
+        <item>Beaufort</item>
+        <item>km/h</item>
+        <item>mph</item>
+        <item>knots</item>
+        <item>m/s</item>
+        <item>f/s</item>
+    </string-array>
+    <string name="no_number_error">Enter a number!</string>
+    <string name="again_button">Convert Again!</string>
+    <string name="english_is">is</string>
+    <string name="conf_text">Confirm</string>
+    <string name="name_text">Name: </string>
+    <string name="email_text">Email: </string>
+    <string name="name">Your Name</string>
+    <string name="email">Your Email</string>
+    <string name="all_fields_req">All Fields Are Required</string>
+    <string name="reg_conf_text">Thank you for your registration.</string>
+    <string name="go_back_button">Go Back</string>
+    <string name="alert_dialog_text">Extreme weather conditions! Do you want to call for help?</string>
+    <string name="neutral_button">Cancel</string>
+    <string name="negative_button">No, thanks.</string>
+    <string name="positive_button">Yes, please!</string>
+    <string name="emergency_num">tel:999</string>
+    <string name="thank_reg">Thank you for registering...</string>
+    <string name="notif_text">Call us for more fun with winds.</string>
+    <string name="beaufort_error">Invalid Beaufort value</string>
+
+</resources>
